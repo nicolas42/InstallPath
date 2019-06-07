@@ -1,7 +1,7 @@
 # InstallPath
 Notes on different programs, how to install things, quality tools
 
-## Port Scanner
+## Furious Port Scanner
 Fast port scanner written in golang 
 https://github.com/liamg/furious
 
